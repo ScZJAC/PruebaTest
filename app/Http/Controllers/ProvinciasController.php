@@ -37,7 +37,7 @@ class ProvinciasController extends Controller
                 'descripcion_provincia' =>$request['nombre'] ,                                         
             ]);
             DB::commit();          
-            return redirect()->route('provincias.create')->with('success','Categoría Registrada!');                    
+            return redirect()->route('provincias.create')->with('success','Provincia Registrada!');                    
         } catch (\Error $e) {
             DB::rollback();  
             return back()->with('fail',$e);            

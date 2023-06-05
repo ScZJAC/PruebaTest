@@ -1,7 +1,9 @@
 Pasos a seguir:
 
 "dependencias del proyecto"
+
 --composer install
+
 --npm install
 --npm run dev (para compilar)
 --php artisan jwt:secret (para regenerar el token)
@@ -20,7 +22,7 @@ Pasos a seguir:
 "A) Realizar un Abm de Provincia"
 "aplicativo web"						
 Despues de loguearse se dirige a la pestañna de provincias donde puede registrar provincias y buscar dentro del input como un combobox
-esta consumiendo recursos de "https://apis.datos.gob.ar/georef/api/provincias",bucsa un nombre y puede registrarlo   
+esta consumiendo recursos de "https://apis.datos.gob.ar/georef/api/provincias",busca un nombre y puede registrarlo   
 
 
 "B) Realizar una api con token que devuelva el listado de Ciudades con sus respectivas provincias"

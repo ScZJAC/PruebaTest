@@ -8,7 +8,7 @@
                 "UrlPlayer":"https://cotasplay.cotas.com/envivo/reduno/playlist.m3u8",
                 "NombreCanal":"Unitel HD",
                 "ImagenCanal":"1001",
-                "Categoria":"1",
+                "Categoria":"1"
            },
             {
                 "Id":"1002",
@@ -17,7 +17,7 @@
                 "UrlPlayer":"https://cotasplay.cotas.com/envivo/reduno/playlist.m3u8",
                 "NombreCanal":"RedUno HD",
                 "ImagenCanal":"1001",
-                "Categoria":"1",
+                "Categoria":"1"
            },
             {
                 "Id":"1003",
@@ -26,7 +26,7 @@
                 "UrlPlayer":"https://cotasplay.cotas.com/envivo/pat/playlist.m3u8",
                 "NombreCanal":"PAT HD",
                 "ImagenCanal":"1001",
-                "Categoria":"1",
+                "Categoria":"1"
            }
        ]
   }

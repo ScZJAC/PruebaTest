@@ -1,0 +1,16 @@
+{
+    "Categorias":[
+        {
+            "Id":"2001",
+            "Descripcion":"Básico",
+            "ImgURL":"",
+            "Estado":"1"
+       },
+       {
+            "Id":"2001",
+            "Descripcion":"Avanzado",
+            "ImgURL":"",
+            "Estado":"1"
+       }
+    ]
+}

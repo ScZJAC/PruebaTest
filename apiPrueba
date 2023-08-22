@@ -1,5 +1,31 @@
 {
   "data":{
-    "name":"alfredo"
+       "canales":{
+            "Id":"1001",
+            "Titulo":"Unitel HD",
+            "Subtitulo":"Canal Nacional",
+            "UrlPlayer":"https://cotasplay.cotas.com/envivo/reduno/playlist.m3u8",
+            "NombreCanal":"Unitel HD",
+            "ImagenCanal":"1001",
+            "Categoria":"1",
+       },
+        {
+            "Id":"1002",
+            "Titulo":"RedUno HD",
+            "Subtitulo":"Canal Nacional",
+            "UrlPlayer":"https://cotasplay.cotas.com/envivo/reduno/playlist.m3u8",
+            "NombreCanal":"RedUno HD",
+            "ImagenCanal":"1001",
+            "Categoria":"1",
+       },
+        {
+            "Id":"1002",
+            "Titulo":"PAT HD",
+            "Subtitulo":"Canal Nacional",
+            "UrlPlayer":"https://cotasplay.cotas.com/envivo/pat/playlist.m3u8",
+            "NombreCanal":"PAT HD",
+            "ImagenCanal":"1001",
+            "Categoria":"1",
+       }
   }
 }
